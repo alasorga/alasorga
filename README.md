@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!,I'm+Alasorga)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&pause=1000&width=435&lines=Hi%2C+I'm+Alasorga)](https://git.io/typing-svg)
 <!--
 **alasorga/alasorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
